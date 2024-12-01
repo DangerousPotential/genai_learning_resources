@@ -1,7 +1,20 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# LangChain Learning Resources
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Welcome to the comprehensive course on **"Developing LLM Web Applications with Python"**. This guide outlines the prerequisites and key concepts to ensure a robust foundation for leveraging Python and LangChain effectively.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+## Prerequisites
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+To maximize your learning experience, the following prerequisites are essential:
+
+- **Proficiency in Basic Python Concepts**: Familiarity with fundamental constructs such as `print` statements, variables, data types, control structures (for and while loops, conditional statements), and object-oriented programming principles (inheritance, encapsulation, polymorphism).
+- **Environment Setup Expertise**: Ability to configure development environments and utilise `pip` for package installations.
+- **OpenAI API Access**: Possession of preloaded API credits for OpenAI or use of the pay-as-you-go model with an associated credit card.
+
+## OpenAI Integration
+
+This section delves into foundational OpenAI concepts and best practices to streamline API integration:
+
+- **API Key Management**: Understand the critical role of API keys in connecting to OpenAI servers and adopt best practices for securely storing these credentials.
+- **`ChatCompletions` API Utilisation**: Gain expertise in implementing the `ChatCompletions` API through the OpenAI Python SDK.
+- **Prompt Engineering**: Comprehend and effectively apply the roles of `System`, `User`, and `Assistant` in crafting prompts to guide the model’s responses.
+- **Hyperparameter Tuning**: Develop an understanding of key hyperparameters and their impact, enabling you to fine-tune model outputs for nuanced and contextually appropriate responses.
